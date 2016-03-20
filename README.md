@@ -1,8 +1,4 @@
-# AsdNav - 2dv607-project
-
-Project repo for LNU course: 2dv607 - RIA-development with JavaScript
-
-## A React Router Navigation component
+# AsdNav - React Navigation component
 
 A navigation component to create navigation for react applications, uses react router to set up routes.
 
@@ -205,37 +201,4 @@ const App = React.createClass({
 
 ## Examples
 
-Some runnable examples with code to check out it can be used.
-
-### Vanilla example
-
-Renders a simple ul-li navigation wrapped in a div. Style it your self how ever you want. The example isn't anything fancy, just some simple css to show some basics.
-
-[Run Vanilla example](http://afrxx09.github.io/2dv607-project/examples/vanilla/)
-
-[Vanilla example code](https://github.com/afrxx09/2dv607-project/tree/gh-pages/examples/vanilla)
-
-### Bootstrap example
-
-Renders the DOM with bootstrap structure and classes. This requires bootstrap css, bootstrap js and jquery aswell.
-
-[Run Bootstrap example](http://afrxx09.github.io/2dv607-project/examples/bootstrap/)
-
-[Bootstrap example code](https://github.com/afrxx09/2dv607-project/tree/gh-pages/examples/bootstrap)
-
-### ES5 Vanilla example
-
-This examples is written in es5 style and has not css at all.
-Contributed by: [Jesper Håkansson](https://github.com/drager)
-
-[Run es5 example](http://afrxx09.github.io/2dv607-project/examples/es5/)
-
-[es5 example code](https://github.com/afrxx09/2dv607-project/tree/gh-pages/examples/es5)
-
-### Materialize example(under dev)
-
-Contributed by: [Erik Magnusson](https://github.com/em222iv)
-
-[Run es5 example](http://afrxx09.github.io/2dv607-project/examples/materialize/)
-
-[es5 example code](https://github.com/afrxx09/2dv607-project/tree/gh-pages/examples/materialize)
+TODO
